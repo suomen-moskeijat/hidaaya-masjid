@@ -1,0 +1,10 @@
+# Hidaaya Masjid Malmi – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Hidaaya Masjid Malmi"
+description: "Hidaaya Masjid Malmi, Malminkaari 5, 00700 Helsinki. Rukousajat, tapahtumat ja toiminta."
+moskeija: hidaaya-masjid-malmi     # tiedosto _moskeijat/hidaaya-masjid-malmi.md
+
+# Osoite: https://suomen-moskeijat.github.io/hidaaya-masjid/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/hidaaya-masjid"
